@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "SURPRISE-DRIVE 『超英雄祭』( LIVE )",
+  "base_artist": "Mitsuru Matsuoka EARNEST DRIVE",
+  "createdAt": "2026-03-22T16:11:27.558379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SURPRISE-DRIVE",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": true,
+      "path": "select/01_SURPRISE-DRIVE_Mitsuru_Matsuoka_EARNEST_DRIVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SURPRISE-DRIVE",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": false,
+      "path": "select/02_SURPRISE-DRIVE_Mitsuru_Matsuoka_EARNEST_DRIVE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SURPRISE-DRIVE",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": true,
+      "path": "select/03_SURPRISE-DRIVE_Mitsuru_Matsuoka_EARNEST_DRIVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SURPRISE-DRIVE - TV Edit.",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": false,
+      "path": "select/04_SURPRISE-DRIVE_-_TV_Edit._Mitsuru_Matsuoka_EARNEST_DRIVE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SURPRISE-DRIVE - type Orchestra",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": false,
+      "path": "select/05_SURPRISE-DRIVE_-_type_Orchestra_Mitsuru_Matsuoka_EARNEST_DRIVE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "eternity (～from SURPRISE-DRIVE)",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": true,
+      "path": "select/06_eternity_(~from_SURPRISE-DRIVE)_Mitsuru_Matsuoka_EARNEST_DRIVE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "eternity - 〜from SURPRISE-DRIVE",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": true,
+      "path": "select/07_eternity_-_〜from_SURPRISE-DRIVE_Mitsuru_Matsuoka_EARNEST_DRIVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SURPRISE-DRIVE",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": false,
+      "path": "select/pl_01_SURPRISE-DRIVE_Mitsuru_Matsuoka_EARNEST_DRIVE.txt"
+    }
+  ]
+}
